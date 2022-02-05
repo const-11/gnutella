@@ -1,0 +1,5 @@
+directory:./shared_files
+ip_addr:127.0.0.1
+identifier:18
+output_dir:./output_dir
+port_client:12345
